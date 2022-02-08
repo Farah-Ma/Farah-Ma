@@ -14,7 +14,7 @@
 <a href= https://github.com/vinioo?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/vinioo?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 
-<br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farah-Ma&show_icons=true&theme=dracula)
 
 
