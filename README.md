@@ -17,8 +17,12 @@
    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'/> 
    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'/> </samp>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farah-Ma&layout=compact&theme=dracula)](https://github.com/fabriciocunhauk/github-readme-stats)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farah-Ma&show_icons=true&theme=dracula)
+
+
 
 
 <!--
